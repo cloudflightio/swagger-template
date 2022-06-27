@@ -8,7 +8,7 @@ plugins {
 allprojects {
     description = "Cloudflight Swagger Template"
     group = "io.cloudflight.swagger-template"
-    version = "1.0.2"
+    version = "1.0.3"
 }
 
 autoConfigure {
