@@ -5,3 +5,5 @@
 
 This repository contains Mustache templates for Swagger Code Generation to be
 used with the [AutoConfigure Plugin](https://github.com/cloudflightio/autoconfigure-gradle-plugin).
+
+This repository is archived and will not be maintained anymore. Upgrade to 3.0.34 of https://github.com/swagger-api/swagger-codegen instead - changes have been incorporated there already.
